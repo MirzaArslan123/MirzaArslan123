@@ -1,16 +1,43 @@
-## Hi there 👋
+# Mirza Arslan
 
-<!--
-**MirzaArslan123/MirzaArslan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**React Native Developer | Mobile App Developer**  
+4+ years experience building production-ready mobile applications.  
+Currently working remotely on React Native projects.  
+**Actively looking for new opportunities.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Can Do for You
+- Build scalable React Native apps for Android & iOS
+- Implement camera, OCR & scanning features
+- Integrate in-app subscriptions & payments
+- Optimize app performance and fix complex bugs
+- Develop native Android modules using Java
+- Apply clean architecture & modular code patterns
+- Debug & refactor large codebases without breaking functionality
+- Integrate third-party libraries and SDKs
+- Implement secure authentication flows (OTP, JWT, social login)
+- Handle app releases on Play Store & App Store
+- Collaborate in code reviews and team workflows
+- Work closely with designers & product teams to deliver quality apps
+
+---
+
+## 🛠 Tech Stack
+**Languages:** JavaScript, TypeScript, Java  
+**Frameworks / Libraries:** React Native, Redux, Redux-Saga, Firebase  
+**Other Skills:** Camera & OCR, In-app Purchases, Maps, Location, Performance Optimization
+
+---
+
+## 📫 Contact Me
+**Email:** [Mr.hafizarslan1@gmail.com](mailto:Mr.hafizarslan1@gmail.com)  
+**LinkedIn:** [mirza-arslan](https://www.linkedin.com/in/mirza-arslan-184205176/)  
+**Phone:** +92 331 8614524  
+
+**Open to remote opportunities.**
+
+---
+
+## 📈 GitHub Stats (Optional)
+![MirzaArslan123 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaArslan123&show_icons=true&theme=radical)
