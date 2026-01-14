@@ -48,8 +48,6 @@ Currently working remotely on React Native projects.
 **LinkedIn:** [mirza-arslan](https://www.linkedin.com/in/mirza-arslan-184205176/)  
 **Phone:** +92 331 8614524  
 
-**Open to remote opportunities.**
-
 ---
 
 ## 📈 GitHub Stats (Optional)
