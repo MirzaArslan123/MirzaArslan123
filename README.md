@@ -24,9 +24,23 @@ Currently working remotely on React Native projects.
 ---
 
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, Java  
-**Frameworks / Libraries:** React Native, Redux, Redux-Saga, Firebase  
-**Other Skills:** Camera & OCR, In-app Purchases, Maps, Location, Performance Optimization
+
+**Languages**  
+- JavaScript  
+- TypeScript  
+- Java  
+
+**Frameworks & Libraries**  
+- React Native  
+- Redux / Redux-Saga  
+- Firebase  
+
+**Other Skills / Tools**  
+- Camera & OCR integrations  
+- In-app Purchases & Subscriptions  
+- Maps & Location services  
+- Performance optimization & debugging  
+- Native Android module development  
 
 ---
 
