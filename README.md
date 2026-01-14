@@ -50,5 +50,3 @@ Currently working remotely on React Native projects.
 
 ---
 
-## 📈 GitHub Stats (Optional)
-![MirzaArslan123 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirzaArslan123&show_icons=true&theme=radical)
