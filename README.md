@@ -28,7 +28,6 @@ Currently working remotely on React Native projects.
 **Languages**  
 - JavaScript  
 - TypeScript  
-- Java  
 
 **Frameworks & Libraries**  
 - React Native  
