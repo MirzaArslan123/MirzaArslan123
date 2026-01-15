@@ -3,7 +3,6 @@
 **React Native Developer | Mobile App Developer**  
 4+ years experience building production-ready mobile applications.  
 Currently working remotely on React Native projects.  
-**Actively looking for new opportunities.**
 
 ---
 
